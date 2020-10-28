@@ -1,2 +1,6 @@
 # experiments
  Just some maths personal Experiments
+
+ case1 is the program that proves Probability is real ...
+
+ case 2 is in development...
